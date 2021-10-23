@@ -1,0 +1,21 @@
+
+
+root (app)
+    router
+    <home>
+    <register>
+
+        state - > data {ostan , shahr , name , phone}
+        function handle_save()
+            fetch / swr 
+
+        *<select-ostan-shahr> 1
+        <select-name-phone>   2
+        <show-info >
+                
+        (button->next) (show or hide components in step 1 , 2  )
+
+        (button->previuse)
+        step2 - > (button-> save ) call handle_save function 
+
+    <user>

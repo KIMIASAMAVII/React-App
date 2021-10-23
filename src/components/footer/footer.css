@@ -1,0 +1,22 @@
+.footer {
+    padding: 15px 0;
+    font-size: 14px;
+    text-align: center;
+    height: 65px;
+    margin: -2px;
+  
+    @media (max-width: 1024px) {
+      display: none;
+    }
+  
+}
+.credits {
+  padding-top: 5px;
+  font-size: 13px;
+
+}
+#a {
+  color: #1f0bd3;
+  text-decoration: none;
+}
+  

@@ -1,0 +1,25 @@
+.home {
+  min-height: 100vh;
+  margin-top: 100px;
+}
+
+.title {
+  font-size: 44px;
+}
+
+.regButton {
+  height: 100px;
+  background-color: rgb(72, 72, 139);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 3px;
+  margin-top: 20px;
+  font-size: large;
+  text-decoration: none;
+}
+.regButton:hover {
+  background-color: rgb(43, 43, 112);
+  color: white;
+}
